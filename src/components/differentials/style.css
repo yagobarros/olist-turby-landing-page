@@ -1,0 +1,25 @@
+#content-backgroud{
+    
+    width: 100%;
+    height: 407px;
+    left: 0px;
+    margin-top: 250px;
+    
+
+    background: #003CCA;
+
+    
+}
+
+.mask{
+    position: absolute;
+    width: 100% ;
+    height: 407px;
+    left: 0px;
+ 
+    z-index:0;
+    opacity: 0.10;
+}
+
+
+

@@ -1,0 +1,35 @@
+.tech{
+    
+    background-image: url('./img/Rectangle\ 41\ \(1\).png');
+    height: 243px;
+   
+}
+
+.title{
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 30px;
+    color: #0DC78B;
+}
+
+.solutions{
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 36px;
+    color: #EAEAF4;
+}
+
+.box{
+    
+    width: 170px;
+    padding: 0px 20px;
+    height: 200px;
+    box-sizing: border-box;
+    box-shadow: inset 0px 3px 3px rgba(0, 0, 0, 0.1);
+
+}
+
+.aaa{
+    position: relative !important;
+    margin-top: -245px !important;
+}

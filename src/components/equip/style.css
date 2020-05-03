@@ -1,0 +1,10 @@
+.user-box{
+    width: 158.28px;
+    height: 158.28px;
+    border-radius: 134px;
+}
+
+.user-box{
+    box-shadow: 4px 4px 8px rgba(14, 12, 12, 0.417);
+}
+

@@ -1,0 +1,54 @@
+.menu{
+    position:fixed;
+    background: #312F4E; 
+    width: 100%;
+    top: 0;
+    z-index: 2;
+
+    box-shadow: 2px 2px 4px rgba(14, 12, 12, 0.417);
+    
+}
+
+.logo{
+    margin-left: 50px; 
+    transition: all 0.3s;
+}
+
+.logo:hover{
+    opacity: 0.4;
+    
+}
+
+
+
+.menu-option{
+    outline-style: none;
+    border: none;
+   
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 19px;  
+
+    color: #FFFFFF !important;
+    transition: all 0.3s;
+
+
+}
+
+.menu-option:hover{
+    color:rgb(197, 197, 197) !important;
+    cursor: pointer;
+}
+
+.active{
+    border-bottom: 1px solid white !important;
+    transition: all 0.3s;
+}
+
+#info{
+    
+    left: 0px;
+    background: url('./img/download\ 2.png');
+    width: 0;
+    height: 621px;
+}

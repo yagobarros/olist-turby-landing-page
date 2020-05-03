@@ -1,0 +1,28 @@
+.info{
+    position: absolute;
+    margin-top: 20px;
+    width: 100%;
+    height: 621px;
+    left: 0px;
+    background-image: url("img/download2.png");
+    background-repeat: no-repeat;
+
+    display: flex;
+    align-items: center;
+}
+
+.name-logo{
+    color:#0DC78B;
+}
+
+@media screen and (max-width: 989px) {
+    .smartphone {
+      display: none;
+    }
+  }
+
+@media screen and (min-width: 1434px){
+  .info{
+    background: #0C29D0 !important;
+  }
+}
