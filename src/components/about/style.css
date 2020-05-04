@@ -1,0 +1,26 @@
+#content-tech{
+    margin-top: 100px;
+    height: auto;
+
+}
+
+.img-about{
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+.text-tittle{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 30px;
+    color: #0DC78B;
+}
+
+.text-desc{
+
+    font-size: 30px;
+    line-height: 36px;  
+    color: #312F4E;
+}

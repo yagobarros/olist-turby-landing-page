@@ -7,8 +7,8 @@ import Yngra from '../img/names/Yngra Simas.png'
 
 
 import AurelioPhoto from '../img/photos/image 8.png'
-import BrunoPhoto from '../img/photos/image 8 (2).png'
-import FelipePhoto from '../img/photos/image 8 (1).png'
+import BrunoPhoto from '../img/photos/image 8 (1).png'
+import FelipePhoto from '../img/photos/image 8 (2).png'
 import YagoPhoto from '../img/photos/image 8 (3).png'
 import YngraPhoto from '../img/photos/image 8 (4).png'
 

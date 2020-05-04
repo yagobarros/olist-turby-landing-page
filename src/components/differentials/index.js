@@ -10,10 +10,11 @@ export default function differentials() {
             <div className="container-fluid" id="content-backgroud">
                 <div className="container">
                         <div className="text-center">
+                            
                              <img className="img-fluid mask" src={MaskGroup}></img>
                         </div>
                 </div>
-                <div className="row mt-5 ml-5">
+                <div className="row mt-5">
                     <picture className="col-md-6 mt-2">
                         <p className="text-center">
                              <img className="img-fluid mt-5" src={TextDif}></img>
@@ -21,6 +22,7 @@ export default function differentials() {
                     </picture>
 
                 </div>
+                
 
             </div>
         

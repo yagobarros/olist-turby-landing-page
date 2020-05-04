@@ -15,7 +15,7 @@ export default function Menu() {
                 </button>
                 
                 <Link  className="navbar-brand logo menu-option" 
-                activeClass="active"
+                activeClass="none"
                 to="info"
                 spy={true}
                 smooth={true}

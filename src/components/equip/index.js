@@ -18,18 +18,17 @@ export default function Equip() {
                     </div>
    
                 <div className="container">
-
-                    <div className="row mt-5 align-items-center ml-4">
+                    <div className="row mt-5 align-items-center">
                         {Users.map(user => {
                             return (
 
                                 <div className="col-md ml-4">
                                     <a href={user.link}>
                                         <div className="card user-box">
-                                            <img className="img-fluid text-center" src={user.photo} />
-                                            <br />
+                                            <img className="img-fluid" src={user.photo} />
+                                            
                                         </div>
-                                        <div className="card-body">
+                                        <div className="card-body text-center">
                                             <img className="img-fluid text-center" src={user.name} />
                                             <br />
                                             <div className="text-center mt-1">

@@ -33,15 +33,15 @@ export default function Technologies() {
                 </div>
                 </div>
                 <div className="container">
-                    <div className="row mt-5 align-items-center">
+                    <div className="row mt-5 align-items-center justify-content-center">
                         {techs.map(item => {
                             return (
-                            <div className="col-sm text-center mt-2 ml-2">
-                                <div className="card box ml-2">
-                                    <div className="card-body mt-5">
+                            
+                                <div className="card box ml-2 text-center mt-2">
+                                    <div className="card-body mt-2">
                                         <img className="img-fluid" src={item.icon}></img>
                                     </div>
-                                </div>
+
                             </div>)
                         })}
 
